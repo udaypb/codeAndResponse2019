@@ -13,6 +13,7 @@ Visual Recognition for Survivor Identification
 Speech-to-Text for auto-generation of incidences from radio transmissions
 Categories identified:
                   'PERSON': 'People',
+                  'PERSON_DES': 'Person descriptors',
                   'NORP': 'Nationalities or religious or political groups',
                   'FAC': 'Building, airports, highways, bridges',
                   'ORG': 'Companies, agencies, institutions etc.',
@@ -28,9 +29,9 @@ Categories identified:
 
 Example:
 Sentence:
-"My grandfather is stuck o highway 202 in Hurricane Harvey and haven't heard from him since 4pm
+"There's an elderly personal stuck on highway 202 near Town Lake. Last checked in at 4pm."
 
-grandfather Person
+elderly Person descriptors
 highway 202 FAC
-Hurricane Harvey EVENT
+LOC Town Lake
 4pm TIME
