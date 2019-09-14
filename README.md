@@ -32,6 +32,9 @@ Sentence:
 "There's an elderly personal stuck on highway 202 near Town Lake. Last checked in at 4pm."
 
 elderly Person descriptors
+
 highway 202 FAC
+
 LOC Town Lake
+
 4pm TIME
