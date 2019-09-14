@@ -28,7 +28,7 @@ Categories identified:
 
 Example:
 Sentence:
-string = nlp("My grandfather is stuck o highway 202 in Hurricane Harvey and haven't heard from him since 4pm")
+"My grandfather is stuck o highway 202 in Hurricane Harvey and haven't heard from him since 4pm
 
 grandfather Person
 highway 202 FAC
